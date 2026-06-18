@@ -1,0 +1,60 @@
+{
+  "generated_at": "2026-06-18T07:16:12+00:00",
+  "title": "Games of Ancient Rome",
+  "totals": {
+    "games": 9,
+    "reconstructions": 4,
+    "with_image": 0,
+    "with_dice": 4
+  },
+  "categories": [
+    {
+      "key": "war",
+      "label": "War & hunt",
+      "pigment": "#7a8a3a",
+      "note": "Games of capture and position — soldiers on a grid.",
+      "count": 1
+    },
+    {
+      "key": "race",
+      "label": "Race & tables",
+      "pigment": "#b4472e",
+      "note": "Dice-driven race games — the tabula family, ancestors of backgammon.",
+      "count": 2
+    },
+    {
+      "key": "alignment",
+      "label": "Alignment",
+      "pigment": "#3a6ea5",
+      "note": "Three-in-a-row games scratched on steps and pavements across the empire.",
+      "count": 3
+    },
+    {
+      "key": "dice",
+      "label": "Dice & lots",
+      "pigment": "#caa05a",
+      "note": "Gambling with knucklebones and cubic dice — alea.",
+      "count": 2
+    },
+    {
+      "key": "guessing",
+      "label": "Hand & guess",
+      "pigment": "#8a5a8a",
+      "note": "Quick wagering games of the hand needing nothing but nimble fingers.",
+      "count": 1
+    }
+  ],
+  "launcher": {
+    "base": "https://justplaybo.github.io/whitechapel/",
+    "note": "Play link = <base>?game=<absolute pack URL>&room=<code>. The pack is a boardgame/1.1 file under data/packs/."
+  },
+  "sources": {
+    "wikidata": {
+      "status": "disabled"
+    },
+    "wikipedia": {
+      "status": "disabled"
+    }
+  },
+  "footer": "Made with <3 in Bologna by OpenHistoryMap"
+}

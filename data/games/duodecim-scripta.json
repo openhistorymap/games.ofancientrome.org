@@ -1,0 +1,231 @@
+{
+  "id": "duodecim-scripta",
+  "name": "Duodecim Scripta",
+  "latin": "Ludus duodecim scriptorum",
+  "aka": [
+    "XII scripta",
+    "Twelve lines"
+  ],
+  "category": "race",
+  "players": "2",
+  "duration": "20–35 min",
+  "wp": "Ludus duodecim scriptorum",
+  "reconstruction": true,
+  "tagline": "Three lines of twelve — the older race game whose boards were carved as word-puzzles.",
+  "rules": {
+    "objective": "Race your fifteen men along the three lines of twelve points and off the board before your opponent.",
+    "setup": "A board of three rows of twelve markers, the middle row split by a central ornament. Each player has fifteen men and three dice. The precise path each player follows is debated — agree it before you start.",
+    "howToPlay": [
+      "Roll three dice and advance men by the values, as in tabula.",
+      "Men travel along the three lines in a fixed serpentine path (commonly: along the middle row outward, then up and back along the outer rows).",
+      "Hold points with two or more men; a lone man can be sent back.",
+      "Bear men off once they reach the end of the track."
+    ],
+    "winning": "First to bear off all fifteen men wins.",
+    "variants": [
+      "Many surviving boards spell out a six-letter × six-word verse (e.g. 'VIRTVS / IMPERI / …'); pick a word board for flavour.",
+      "Play the simpler tabula path if the three-line route is disputed at your table."
+    ],
+    "players": "2",
+    "duration": "20–35 min"
+  },
+  "context": {
+    "period": "Roman Republic & early Empire, c. 1st c. BCE – 3rd c. CE",
+    "blurb": "Duodecim scripta — 'twelve markings' — is the older cousin of tabula, played on three lines of twelve points. Dozens of its boards survive carved into the steps of the Basilica Julia, temple pavements and tavern tables, many of them inscribed as six-letter-by-six-word puzzles (tabulae lusoriae) such as 'LEVATE / DALOCV / LVDERE / NESCIS / IDIOTA / RECEDE' — 'Get up, clear off, you don't know how to play, you fool, go away.' The exact track is reconstructed.",
+    "sources": [
+      "Ferrua, A. (2001). Tavole lusorie epigrafiche.",
+      "Purcell, N. (1995). 'Literate Games: Roman Urban Society and the Game of Alea.' Past & Present 147."
+    ]
+  },
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDM0MCIgd2lkdGg9IjEyMDAiIGhlaWdodD0iMzQwIj48cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIzNDAiIGZpbGw9IiNlN2Q3YjQiLz48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIzNDAiIGZpbGw9IiNlN2Q3YjQiIHN0cm9rZT0iIzdjNWEzNCIgc3Ryb2tlLXdpZHRoPSI2Ii8+PGNpcmNsZSBjeD0iNTAuMCIgY3k9IjcwLjAiIHI9IjI2IiBmaWxsPSJub25lIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9IjUwLjAiIGN5PSI3MC4wIiByPSI2IiBmaWxsPSIjNWEzZjIyIi8+PGNpcmNsZSBjeD0iMTUwLjAiIGN5PSI3MC4wIiByPSIyNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN2M1YTM0IiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSIxNTAuMCIgY3k9IjcwLjAiIHI9IjYiIGZpbGw9IiM1YTNmMjIiLz48Y2lyY2xlIGN4PSIyNTAuMCIgY3k9IjcwLjAiIHI9IjI2IiBmaWxsPSJub25lIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9IjI1MC4wIiBjeT0iNzAuMCIgcj0iNiIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9IjM1MC4wIiBjeT0iNzAuMCIgcj0iMjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzdjNWEzNCIgc3Ryb2tlLXdpZHRoPSIzIi8+PGNpcmNsZSBjeD0iMzUwLjAiIGN5PSI3MC4wIiByPSI2IiBmaWxsPSIjNWEzZjIyIi8+PGNpcmNsZSBjeD0iNDUwLjAiIGN5PSI3MC4wIiByPSIyNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN2M1YTM0IiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSI0NTAuMCIgY3k9IjcwLjAiIHI9IjYiIGZpbGw9IiM1YTNmMjIiLz48Y2lyY2xlIGN4PSI1NTAuMCIgY3k9IjcwLjAiIHI9IjI2IiBmaWxsPSJub25lIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9IjU1MC4wIiBjeT0iNzAuMCIgcj0iNiIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9IjY1MC4wIiBjeT0iNzAuMCIgcj0iMjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzdjNWEzNCIgc3Ryb2tlLXdpZHRoPSIzIi8+PGNpcmNsZSBjeD0iNjUwLjAiIGN5PSI3MC4wIiByPSI2IiBmaWxsPSIjNWEzZjIyIi8+PGNpcmNsZSBjeD0iNzUwLjAiIGN5PSI3MC4wIiByPSIyNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN2M1YTM0IiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSI3NTAuMCIgY3k9IjcwLjAiIHI9IjYiIGZpbGw9IiM1YTNmMjIiLz48Y2lyY2xlIGN4PSI4NTAuMCIgY3k9IjcwLjAiIHI9IjI2IiBmaWxsPSJub25lIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9Ijg1MC4wIiBjeT0iNzAuMCIgcj0iNiIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9Ijk1MC4wIiBjeT0iNzAuMCIgcj0iMjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzdjNWEzNCIgc3Ryb2tlLXdpZHRoPSIzIi8+PGNpcmNsZSBjeD0iOTUwLjAiIGN5PSI3MC4wIiByPSI2IiBmaWxsPSIjNWEzZjIyIi8+PGNpcmNsZSBjeD0iMTA1MC4wIiBjeT0iNzAuMCIgcj0iMjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzdjNWEzNCIgc3Ryb2tlLXdpZHRoPSIzIi8+PGNpcmNsZSBjeD0iMTA1MC4wIiBjeT0iNzAuMCIgcj0iNiIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9IjExNTAuMCIgY3k9IjcwLjAiIHI9IjI2IiBmaWxsPSJub25lIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9IjExNTAuMCIgY3k9IjcwLjAiIHI9IjYiIGZpbGw9IiM1YTNmMjIiLz48Y2lyY2xlIGN4PSI1MC4wIiBjeT0iMTcwLjAiIHI9IjI2IiBmaWxsPSJub25lIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9IjUwLjAiIGN5PSIxNzAuMCIgcj0iNiIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9IjE1MC4wIiBjeT0iMTcwLjAiIHI9IjI2IiBmaWxsPSJub25lIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9IjE1MC4wIiBjeT0iMTcwLjAiIHI9IjYiIGZpbGw9IiM1YTNmMjIiLz48Y2lyY2xlIGN4PSIyNTAuMCIgY3k9IjE3MC4wIiByPSIyNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN2M1YTM0IiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSIyNTAuMCIgY3k9IjE3MC4wIiByPSI2IiBmaWxsPSIjNWEzZjIyIi8+PGNpcmNsZSBjeD0iMzUwLjAiIGN5PSIxNzAuMCIgcj0iMjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzdjNWEzNCIgc3Ryb2tlLXdpZHRoPSIzIi8+PGNpcmNsZSBjeD0iMzUwLjAiIGN5PSIxNzAuMCIgcj0iNiIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9IjQ1MC4wIiBjeT0iMTcwLjAiIHI9IjI2IiBmaWxsPSJub25lIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9IjQ1MC4wIiBjeT0iMTcwLjAiIHI9IjYiIGZpbGw9IiM1YTNmMjIiLz48Y2lyY2xlIGN4PSI1NTAuMCIgY3k9IjE3MC4wIiByPSIyNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN2M1YTM0IiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSI1NTAuMCIgY3k9IjE3MC4wIiByPSI2IiBmaWxsPSIjNWEzZjIyIi8+PGNpcmNsZSBjeD0iNjUwLjAiIGN5PSIxNzAuMCIgcj0iMjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzdjNWEzNCIgc3Ryb2tlLXdpZHRoPSIzIi8+PGNpcmNsZSBjeD0iNjUwLjAiIGN5PSIxNzAuMCIgcj0iNiIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9Ijc1MC4wIiBjeT0iMTcwLjAiIHI9IjI2IiBmaWxsPSJub25lIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9Ijc1MC4wIiBjeT0iMTcwLjAiIHI9IjYiIGZpbGw9IiM1YTNmMjIiLz48Y2lyY2xlIGN4PSI4NTAuMCIgY3k9IjE3MC4wIiByPSIyNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN2M1YTM0IiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSI4NTAuMCIgY3k9IjE3MC4wIiByPSI2IiBmaWxsPSIjNWEzZjIyIi8+PGNpcmNsZSBjeD0iOTUwLjAiIGN5PSIxNzAuMCIgcj0iMjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzdjNWEzNCIgc3Ryb2tlLXdpZHRoPSIzIi8+PGNpcmNsZSBjeD0iOTUwLjAiIGN5PSIxNzAuMCIgcj0iNiIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9IjEwNTAuMCIgY3k9IjE3MC4wIiByPSIyNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN2M1YTM0IiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSIxMDUwLjAiIGN5PSIxNzAuMCIgcj0iNiIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9IjExNTAuMCIgY3k9IjE3MC4wIiByPSIyNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN2M1YTM0IiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSIxMTUwLjAiIGN5PSIxNzAuMCIgcj0iNiIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9IjUwLjAiIGN5PSIyNzAuMCIgcj0iMjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzdjNWEzNCIgc3Ryb2tlLXdpZHRoPSIzIi8+PGNpcmNsZSBjeD0iNTAuMCIgY3k9IjI3MC4wIiByPSI2IiBmaWxsPSIjNWEzZjIyIi8+PGNpcmNsZSBjeD0iMTUwLjAiIGN5PSIyNzAuMCIgcj0iMjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzdjNWEzNCIgc3Ryb2tlLXdpZHRoPSIzIi8+PGNpcmNsZSBjeD0iMTUwLjAiIGN5PSIyNzAuMCIgcj0iNiIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9IjI1MC4wIiBjeT0iMjcwLjAiIHI9IjI2IiBmaWxsPSJub25lIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9IjI1MC4wIiBjeT0iMjcwLjAiIHI9IjYiIGZpbGw9IiM1YTNmMjIiLz48Y2lyY2xlIGN4PSIzNTAuMCIgY3k9IjI3MC4wIiByPSIyNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN2M1YTM0IiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSIzNTAuMCIgY3k9IjI3MC4wIiByPSI2IiBmaWxsPSIjNWEzZjIyIi8+PGNpcmNsZSBjeD0iNDUwLjAiIGN5PSIyNzAuMCIgcj0iMjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzdjNWEzNCIgc3Ryb2tlLXdpZHRoPSIzIi8+PGNpcmNsZSBjeD0iNDUwLjAiIGN5PSIyNzAuMCIgcj0iNiIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9IjU1MC4wIiBjeT0iMjcwLjAiIHI9IjI2IiBmaWxsPSJub25lIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9IjU1MC4wIiBjeT0iMjcwLjAiIHI9IjYiIGZpbGw9IiM1YTNmMjIiLz48Y2lyY2xlIGN4PSI2NTAuMCIgY3k9IjI3MC4wIiByPSIyNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN2M1YTM0IiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSI2NTAuMCIgY3k9IjI3MC4wIiByPSI2IiBmaWxsPSIjNWEzZjIyIi8+PGNpcmNsZSBjeD0iNzUwLjAiIGN5PSIyNzAuMCIgcj0iMjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzdjNWEzNCIgc3Ryb2tlLXdpZHRoPSIzIi8+PGNpcmNsZSBjeD0iNzUwLjAiIGN5PSIyNzAuMCIgcj0iNiIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9Ijg1MC4wIiBjeT0iMjcwLjAiIHI9IjI2IiBmaWxsPSJub25lIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9Ijg1MC4wIiBjeT0iMjcwLjAiIHI9IjYiIGZpbGw9IiM1YTNmMjIiLz48Y2lyY2xlIGN4PSI5NTAuMCIgY3k9IjI3MC4wIiByPSIyNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN2M1YTM0IiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSI5NTAuMCIgY3k9IjI3MC4wIiByPSI2IiBmaWxsPSIjNWEzZjIyIi8+PGNpcmNsZSBjeD0iMTA1MC4wIiBjeT0iMjcwLjAiIHI9IjI2IiBmaWxsPSJub25lIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9IjEwNTAuMCIgY3k9IjI3MC4wIiByPSI2IiBmaWxsPSIjNWEzZjIyIi8+PGNpcmNsZSBjeD0iMTE1MC4wIiBjeT0iMjcwLjAiIHI9IjI2IiBmaWxsPSJub25lIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9IjExNTAuMCIgY3k9IjI3MC4wIiByPSI2IiBmaWxsPSIjNWEzZjIyIi8+PGNpcmNsZSBjeD0iNjAwLjAiIGN5PSIxNzAuMCIgcj0iMzQiIGZpbGw9IiNiNDQ3MmUiIG9wYWNpdHk9IjAuODUiLz48Y2lyY2xlIGN4PSI2MDAuMCIgY3k9IjE3MC4wIiByPSIxNiIgZmlsbD0iI2U3ZDdiNCIvPjwvc3ZnPg==",
+    "aspect": 3.5294,
+    "color": "#1b1410",
+    "pieceSize": 0.05
+  },
+  "pieces": [
+    {
+      "type": "w",
+      "label": "Albus (white)",
+      "glyph": "",
+      "bg": "#ece0c8"
+    },
+    {
+      "type": "b",
+      "label": "Ruber (red)",
+      "glyph": "",
+      "bg": "#a8412e"
+    }
+  ],
+  "setup": [
+    {
+      "type": "w",
+      "x": 0.12,
+      "y": 0.83
+    },
+    {
+      "type": "w",
+      "x": 0.1891,
+      "y": 0.83
+    },
+    {
+      "type": "w",
+      "x": 0.2582,
+      "y": 0.83
+    },
+    {
+      "type": "w",
+      "x": 0.3273,
+      "y": 0.83
+    },
+    {
+      "type": "w",
+      "x": 0.3964,
+      "y": 0.83
+    },
+    {
+      "type": "w",
+      "x": 0.4655,
+      "y": 0.83
+    },
+    {
+      "type": "w",
+      "x": 0.5345,
+      "y": 0.83
+    },
+    {
+      "type": "w",
+      "x": 0.6036,
+      "y": 0.83
+    },
+    {
+      "type": "w",
+      "x": 0.6727,
+      "y": 0.83
+    },
+    {
+      "type": "w",
+      "x": 0.7418,
+      "y": 0.83
+    },
+    {
+      "type": "w",
+      "x": 0.8109,
+      "y": 0.83
+    },
+    {
+      "type": "w",
+      "x": 0.88,
+      "y": 0.83
+    },
+    {
+      "type": "w",
+      "x": 0.12,
+      "y": 0.83
+    },
+    {
+      "type": "w",
+      "x": 0.21,
+      "y": 0.83
+    },
+    {
+      "type": "w",
+      "x": 0.3,
+      "y": 0.83
+    },
+    {
+      "type": "b",
+      "x": 0.12,
+      "y": 0.17
+    },
+    {
+      "type": "b",
+      "x": 0.1891,
+      "y": 0.17
+    },
+    {
+      "type": "b",
+      "x": 0.2582,
+      "y": 0.17
+    },
+    {
+      "type": "b",
+      "x": 0.3273,
+      "y": 0.17
+    },
+    {
+      "type": "b",
+      "x": 0.3964,
+      "y": 0.17
+    },
+    {
+      "type": "b",
+      "x": 0.4655,
+      "y": 0.17
+    },
+    {
+      "type": "b",
+      "x": 0.5345,
+      "y": 0.17
+    },
+    {
+      "type": "b",
+      "x": 0.6036,
+      "y": 0.17
+    },
+    {
+      "type": "b",
+      "x": 0.6727,
+      "y": 0.17
+    },
+    {
+      "type": "b",
+      "x": 0.7418,
+      "y": 0.17
+    },
+    {
+      "type": "b",
+      "x": 0.8109,
+      "y": 0.17
+    },
+    {
+      "type": "b",
+      "x": 0.88,
+      "y": 0.17
+    },
+    {
+      "type": "b",
+      "x": 0.7,
+      "y": 0.17
+    },
+    {
+      "type": "b",
+      "x": 0.79,
+      "y": 0.17
+    },
+    {
+      "type": "b",
+      "x": 0.88,
+      "y": 0.17
+    }
+  ],
+  "dice": [
+    {
+      "id": "tesserae",
+      "label": "Tesserae",
+      "glyph": "🎲",
+      "sides": 6,
+      "count": 3
+    }
+  ],
+  "turns": {
+    "players": [
+      "Albus",
+      "Ruber"
+    ],
+    "track": true
+  },
+  "category_label": "Race & tables",
+  "schema": "boardgame/1.1",
+  "pack_path": "data/packs/duodecim-scripta.json"
+}

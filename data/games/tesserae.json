@@ -1,0 +1,70 @@
+{
+  "id": "tesserae",
+  "name": "Tesserae",
+  "latin": "Tesserae",
+  "aka": [
+    "Cubic dice",
+    "Alea"
+  ],
+  "category": "dice",
+  "players": "2+",
+  "duration": "10 min",
+  "wp": "Dice",
+  "reconstruction": false,
+  "tagline": "Three cubic dice and a cup — 'the die is cast'.",
+  "rules": {
+    "objective": "Throw the highest with three six-sided dice and take the stakes.",
+    "setup": "Three tesserae (cubic dice), ideally thrown from a fritillus (dice-tower / cup) to stop cheating. Each player puts up a stake.",
+    "howToPlay": [
+      "Players throw the three dice in turn.",
+      "Compare totals — and watch for named throws: three sixes (the best) or three ones (the worst).",
+      "Settle the wager on each round."
+    ],
+    "winning": "Highest throw wins the pot. Gambling with dice was technically illegal except at the Saturnalia — which never stopped anyone.",
+    "variants": [
+      "Add the Venus/Dog conventions from tali for named winning and losing throws.",
+      "Play 'highest of three throws' to smooth out the luck."
+    ],
+    "players": "2+",
+    "duration": "10 min"
+  },
+  "context": {
+    "period": "Roman Republic & Empire",
+    "blurb": "Tesserae were ordinary cubic dice, marked one to six with the one and six on opposite faces just as today. Romans gambled with them constantly despite laws (the lex alearia) banning dice except during the Saturnalia, and threw them from a fritillus, a ridged cup, to foil sharps. Caesar's 'alea iacta est' — 'the die is cast' — at the Rubicon is the most famous dice throw in history.",
+    "sources": [
+      "Suetonius, Divus Iulius 32 (alea iacta est).",
+      "Horace, Odes III.24; Cicero, Philippics II."
+    ]
+  },
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjIwIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjYyMCI+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI2MjAiIGZpbGw9IiNlN2Q3YjQiLz48cmVjdCB4PSIyMiIgeT0iMjIiIHdpZHRoPSI4NTYiIGhlaWdodD0iNTc2IiBmaWxsPSJub25lIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iNiIvPjxyZWN0IHg9IjMyIiB5PSIzMiIgd2lkdGg9IjgzNiIgaGVpZ2h0PSI1NTYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2EwN2E0NiIgc3Ryb2tlLXdpZHRoPSIyIi8+PGVsbGlwc2UgY3g9IjQ1MC4wIiBjeT0iMzEwLjAiIHJ4PSIyNTAiIHJ5PSIxNjAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2EwN2E0NiIgc3Ryb2tlLXdpZHRoPSIzIiBvcGFjaXR5PSIwLjUiLz48dGV4dCB4PSI0NTAuMCIgeT0iMzMyLjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjkyIiBsZXR0ZXItc3BhY2luZz0iMTQiIGZpbGw9IiM3YzVhMzQiIG9wYWNpdHk9IjAuMjIiPkFMRUE8L3RleHQ+PC9zdmc+",
+    "aspect": 1.4516,
+    "color": "#1b1410",
+    "pieceSize": 0.06
+  },
+  "pieces": [
+    {
+      "type": "stake",
+      "label": "Denarius (stake)",
+      "glyph": "✸",
+      "color": "#caa05a",
+      "bg": "#3a2c1a"
+    }
+  ],
+  "setup": [],
+  "dice": [
+    {
+      "id": "tesserae",
+      "label": "Tesserae",
+      "glyph": "🎲",
+      "sides": 6,
+      "count": 3
+    }
+  ],
+  "turns": {
+    "track": true
+  },
+  "category_label": "Dice & lots",
+  "schema": "boardgame/1.1",
+  "pack_path": "data/packs/tesserae.json"
+}

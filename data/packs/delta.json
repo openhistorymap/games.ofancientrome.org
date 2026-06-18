@@ -1,0 +1,56 @@
+{
+  "schema": "boardgame/1.1",
+  "id": "delta",
+  "name": "Delta",
+  "description": "A triangular game-diagram from Roman stone — its rules unrecorded, here reconstructed.",
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MjAgNTYwIiB3aWR0aD0iNjIwIiBoZWlnaHQ9IjU2MCI+PHJlY3Qgd2lkdGg9IjYyMCIgaGVpZ2h0PSI1NjAiIGZpbGw9IiNlN2Q3YjQiLz48cG9seWdvbiBwb2ludHM9IjMxMCw0MCA0MCw1MjAgNTgwLDUyMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN2M1YTM0IiBzdHJva2Utd2lkdGg9IjUiLz48bGluZSB4MT0iMzEwIiB5MT0iNDAiIHgyPSIzMTAuMCIgeTI9IjUyMC4wIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSI0MCIgeTE9IjUyMCIgeDI9IjQ0NS4wIiB5Mj0iMjgwLjAiIHN0cm9rZT0iIzdjNWEzNCIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjU4MCIgeTE9IjUyMCIgeDI9IjE3NS4wIiB5Mj0iMjgwLjAiIHN0cm9rZT0iIzdjNWEzNCIgc3Ryb2tlLXdpZHRoPSIzIi8+PGNpcmNsZSBjeD0iMzEwLjAiIGN5PSI0MC4wIiByPSIxMyIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9IjQwLjAiIGN5PSI1MjAuMCIgcj0iMTMiIGZpbGw9IiM1YTNmMjIiLz48Y2lyY2xlIGN4PSI1ODAuMCIgY3k9IjUyMC4wIiByPSIxMyIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9IjE3NS4wIiBjeT0iMjgwLjAiIHI9IjEzIiBmaWxsPSIjNWEzZjIyIi8+PGNpcmNsZSBjeD0iMzEwLjAiIGN5PSI1MjAuMCIgcj0iMTMiIGZpbGw9IiM1YTNmMjIiLz48Y2lyY2xlIGN4PSI0NDUuMCIgY3k9IjI4MC4wIiByPSIxMyIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9IjMxMC4wIiBjeT0iMzYwLjAiIHI9IjEzIiBmaWxsPSIjNWEzZjIyIi8+PC9zdmc+",
+    "aspect": 1.1071,
+    "color": "#1b1410",
+    "pieceSize": 0.1
+  },
+  "pieces": [
+    {
+      "type": "a",
+      "label": "Album (bone)",
+      "glyph": "",
+      "bg": "#ece0c8"
+    },
+    {
+      "type": "r",
+      "label": "Ruber (terracotta)",
+      "glyph": "",
+      "bg": "#a8412e"
+    }
+  ],
+  "turns": {
+    "players": [
+      "Album",
+      "Ruber"
+    ],
+    "track": true
+  },
+  "rules": {
+    "objective": "Be first to line up your three pieces along a full side or median of the delta.",
+    "setup": "A triangular (delta) diagram of seven points: three corners, three edge-midpoints and the centre, joined by the three sides and three medians. Each player has three pieces.",
+    "howToPlay": [
+      "Take turns placing your three pieces on empty points.",
+      "Then take turns sliding a piece along a drawn line to the next empty point.",
+      "Aim to occupy three points that all lie on one straight line of the figure."
+    ],
+    "winning": "Three of your pieces on a single side or median wins.",
+    "variants": [
+      "Treat it as a small race instead: enter at a corner and run a piece to the opposite midpoint on dice throws."
+    ],
+    "players": "2",
+    "duration": "10 min"
+  },
+  "context": {
+    "period": "Roman, imperial — board attested, game lost",
+    "blurb": "Among the tabulae lusoriae — gaming diagrams carved into Roman steps and pavements — are circular, square and triangular figures. The triangular 'delta' board is real and recurring, but unlike tabula or terni lapilli no ancient source tells us how it was played. Everything below is an explicit modern reconstruction offered so the board can be enjoyed; it is a plausible game in the Roman idiom, not a recovered one. We flag it honestly as such.",
+    "sources": [
+      "Ferrua, A. (2001). Tavole lusorie epigrafiche.",
+      "Purcell, N. (1995). 'Literate Games.' Past & Present 147."
+    ]
+  }
+}

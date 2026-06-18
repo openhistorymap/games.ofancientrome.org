@@ -1,0 +1,70 @@
+{
+  "id": "terni-lapilli",
+  "name": "Terni Lapilli",
+  "latin": "Terni lapilli",
+  "aka": [
+    "Three men's morris",
+    "Roman three-in-a-row"
+  ],
+  "category": "alignment",
+  "players": "2",
+  "duration": "5 min",
+  "wp": "Three men's morris",
+  "reconstruction": false,
+  "tagline": "Rome's three-in-a-row, scratched on a thousand steps and pavements.",
+  "rules": {
+    "objective": "Make a straight line of your three pieces along any row, column or diagonal.",
+    "setup": "An empty board of nine points. Each player has three pieces. Drag them from the tray.",
+    "howToPlay": [
+      "Take turns placing one of your three pieces on any empty point.",
+      "When all six pieces are down, take turns moving one piece along a line to an adjacent empty point.",
+      "Keep manoeuvring until someone lines up three."
+    ],
+    "winning": "Three of your pieces in a straight line wins at once.",
+    "variants": [
+      "Allow a piece to move to any empty point (not only adjacent) for a faster game.",
+      "Forbid re-making the same mill twice in a row to avoid stalemates."
+    ],
+    "players": "2",
+    "duration": "5 min"
+  },
+  "context": {
+    "period": "Roman Empire, ubiquitous 1st–5th c. CE",
+    "blurb": "Terni lapilli — 'three little stones' — is Rome's version of three men's morris, mentioned by Ovid in the Ars Amatoria as a game a fashionable woman should know. Its boards are among the commonest Roman graffiti: scratched into the steps of the Forum, the Basilica Julia and pavements all over the empire, wherever people waited and wanted a quick game with three pebbles each.",
+    "sources": [
+      "Ovid, Ars Amatoria III.365–366.",
+      "Bell, R. C. (1979). Board and Table Games from Many Civilizations. Dover."
+    ]
+  },
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgNjAwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjYwMCI+PHJlY3Qgd2lkdGg9IjYwMCIgaGVpZ2h0PSI2MDAiIGZpbGw9IiNlN2Q3YjQiLz48cmVjdCB4PSIyNCIgeT0iMjQiIHdpZHRoPSI1NTIiIGhlaWdodD0iNTUyIiBmaWxsPSJub25lIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iNiIvPjxyZWN0IHg9IjM0IiB5PSIzNCIgd2lkdGg9IjUzMiIgaGVpZ2h0PSI1MzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2EwN2E0NiIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjkwLjAiIHkxPSI5MC4wIiB4Mj0iNTEwLjAiIHkyPSI5MC4wIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSI5MC4wIiB5MT0iMzAwLjAiIHgyPSI1MTAuMCIgeTI9IjMwMC4wIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSI5MC4wIiB5MT0iNTEwLjAiIHgyPSI1MTAuMCIgeTI9IjUxMC4wIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSI5MC4wIiB5MT0iOTAuMCIgeDI9IjkwLjAiIHkyPSI1MTAuMCIgc3Ryb2tlPSIjN2M1YTM0IiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iMzAwLjAiIHkxPSI5MC4wIiB4Mj0iMzAwLjAiIHkyPSI1MTAuMCIgc3Ryb2tlPSIjN2M1YTM0IiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iNTEwLjAiIHkxPSI5MC4wIiB4Mj0iNTEwLjAiIHkyPSI1MTAuMCIgc3Ryb2tlPSIjN2M1YTM0IiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iOTAuMCIgeTE9IjkwLjAiIHgyPSI1MTAuMCIgeTI9IjUxMC4wIiBzdHJva2U9IiM3YzVhMzQiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSI1MTAuMCIgeTE9IjkwLjAiIHgyPSI5MC4wIiB5Mj0iNTEwLjAiIHN0cm9rZT0iIzdjNWEzNCIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iOTAuMCIgY3k9IjkwLjAiIHI9IjEzIiBmaWxsPSIjNWEzZjIyIi8+PGNpcmNsZSBjeD0iMzAwLjAiIGN5PSI5MC4wIiByPSIxMyIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9IjUxMC4wIiBjeT0iOTAuMCIgcj0iMTMiIGZpbGw9IiM1YTNmMjIiLz48Y2lyY2xlIGN4PSI5MC4wIiBjeT0iMzAwLjAiIHI9IjEzIiBmaWxsPSIjNWEzZjIyIi8+PGNpcmNsZSBjeD0iMzAwLjAiIGN5PSIzMDAuMCIgcj0iMTMiIGZpbGw9IiM1YTNmMjIiLz48Y2lyY2xlIGN4PSI1MTAuMCIgY3k9IjMwMC4wIiByPSIxMyIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9IjkwLjAiIGN5PSI1MTAuMCIgcj0iMTMiIGZpbGw9IiM1YTNmMjIiLz48Y2lyY2xlIGN4PSIzMDAuMCIgY3k9IjUxMC4wIiByPSIxMyIgZmlsbD0iIzVhM2YyMiIvPjxjaXJjbGUgY3g9IjUxMC4wIiBjeT0iNTEwLjAiIHI9IjEzIiBmaWxsPSIjNWEzZjIyIi8+PC9zdmc+",
+    "aspect": 1.0,
+    "color": "#1b1410",
+    "pieceSize": 0.12
+  },
+  "pieces": [
+    {
+      "type": "a",
+      "label": "Album (bone)",
+      "glyph": "",
+      "bg": "#ece0c8"
+    },
+    {
+      "type": "r",
+      "label": "Ruber (terracotta)",
+      "glyph": "",
+      "bg": "#a8412e"
+    }
+  ],
+  "setup": [],
+  "turns": {
+    "players": [
+      "Album",
+      "Ruber"
+    ],
+    "track": true
+  },
+  "category_label": "Alignment",
+  "schema": "boardgame/1.1",
+  "pack_path": "data/packs/terni-lapilli.json"
+}
