@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T07:16:12+00:00",
+  "generated_at": "2026-06-19T09:18:10+00:00",
   "title": "Games of Ancient Rome",
   "totals": {
     "games": 9,
@@ -45,7 +45,7 @@
     }
   ],
   "launcher": {
-    "base": "https://justplaybo.github.io/whitechapel/",
+    "base": "https://justplaybo.github.io/launcher/",
     "note": "Play link = <base>?game=<absolute pack URL>&room=<code>. The pack is a boardgame/1.1 file under data/packs/."
   },
   "sources": {

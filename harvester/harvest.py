@@ -34,7 +34,7 @@ DATA_DIR = ROOT / "data"
 GAMES_DIR = DATA_DIR / "games"
 PACKS_DIR = DATA_DIR / "packs"
 
-LAUNCHER = "https://justplaybo.github.io/whitechapel/"
+LAUNCHER = "https://justplaybo.github.io/launcher/"
 PACK_SCHEMA = "boardgame/1.1"
 
 # fields that belong only to the website record, not to the launcher pack
